@@ -25,7 +25,7 @@ public class ArrayLists {
         }
         System.out.println("--------------------------------------------------------------------" );
 
-        //2da for: mediante el foreach, el cual no proporciona acceso directo a los indices, no podre modificarlos...
+        //2da for:  mediante el foreach, el cual no proporciona acceso directo a los indices, no podre modificarlos...
         for (Persona perso:ListaDePersonas){
             System.out.println("prueba: " + perso.getNombre());
         }
