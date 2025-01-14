@@ -89,6 +89,11 @@ public class Coleccion {
         System.out.println(" esta el 3?" + pila.search(3));
         System.out.println(" Tope de la pila: " + pila.peek());
 
+        System.out.println(" --------------------------------------------------------------------------");
+
+
+        System.out.println("HashMap-----------------------------");
+
 
     }
 }
