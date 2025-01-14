@@ -1,5 +1,3 @@
-package ArrayList;
-
 public class Persona {
     private int num;
     private String nombre;
