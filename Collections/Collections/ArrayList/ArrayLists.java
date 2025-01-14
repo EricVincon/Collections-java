@@ -16,6 +16,45 @@ public class ArrayLists {
         ListaDePersonas.add(new Persona(6,"lucas",26));
         ListaDePersonas.add(new Persona(6,"Mauro",26));
         ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
+        ListaDePersonas.add(new Persona(6,"Sonia",26));
 
         //hay 2 formas de recorrer la los arraylist ,mediante el for(recorrer por indice,a una posicion en particular)
         //con el bucle for controlo manualmente las iteraciones con acceso a los indices
@@ -32,3 +71,7 @@ public class ArrayLists {
 
     }
 }
+//dsfsdfdsfdsf
+//fsdfdsfdsfds
+//dsfdsfsdfffffffffffffffffffffffffffffffffff
+//dsfffffffffffffffffffffff
