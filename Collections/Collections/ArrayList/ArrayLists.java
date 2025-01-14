@@ -7,7 +7,7 @@ public class ArrayLists {
 
         List <Persona> ListaDePersonas = new ArrayList<Persona> ();
 
-        //Agrego personas al arraylist instanciando la clase persona
+        //Agrego personas al arraylist instanciando la clase persona..
         ListaDePersonas.add(new Persona(1,"eric",26));
         ListaDePersonas.add(new Persona(2,"luisina",26));
         ListaDePersonas.add(new Persona(3,"marcos",26));
