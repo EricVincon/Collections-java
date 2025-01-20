@@ -24,7 +24,7 @@ HashMap: Una implementación de la interfaz Map, almacena pares clave-valor. Ofr
 Cómo usar:
 
 Clonar el repositorio
-Abrir el proyecto en tu IDE preferido:
+Abrir el proyecto en tu IDE preferido
 Dentro de tu IDE, localiza la clase Menu.java dentro de la estructura de paquetes.
 Haz clic derecho sobre Menu.java y selecciona "Run 'Menu.main()'" para ejecutar el programa.
 El programa iniciará y te mostrará el menú interactivo donde podrás seleccionar diferentes colecciones para ver ejemplos de su uso.
@@ -32,7 +32,10 @@ El programa iniciará y te mostrará el menú interactivo donde podrás seleccio
 Estructura del Proyecto:
 
 src: Contiene el código fuente de Java.
+
 Menu.java: La clase principal que contiene el menú interactivo.
+
 Arraylist.java, Linkedlist.java, Stackk.java, Hashmap.java: Clases que contienen los ejemplos básicos de cada colección.
+
 out: Carpeta generada por IntelliJ IDEA(mi ide) que contiene los archivos compilados.
 
