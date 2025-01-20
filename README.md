@@ -19,6 +19,7 @@ ArrayList: Una implementación de la interfaz List, permite almacenar elementos 
 LinkedList: Una implementación de la interfaz List que almacena elementos de manera enlazada. Permite inserciones y eliminaciones más eficientes en cualquier posición, pero el acceso a los elementos es más lento en comparación con un ArrayList.
 
 Stack: Una estructura de datos de tipo "LIFO" (último en entrar, primero en salir), donde solo se pueden añadir y eliminar elementos desde el extremo superior.
+
 HashMap: Una implementación de la interfaz Map, almacena pares clave-valor. Ofrece acceso rápido a los elementos mediante una clave única.
 
 Cómo usar:
